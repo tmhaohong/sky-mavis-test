@@ -1,0 +1,39 @@
+{
+  "common":{
+    "commonError":"Error from the server! Please try again.",
+    "walletName": "{{name}} Wallet",
+    "lastSent":"Last Sent: {{time}}",
+    "lastCurrency":"Last Currency: {{time}}",
+    "max": "Max",
+    "available":"Available: {{amount}} {{asset}}",
+    "labels":{
+        "password":"Enter Password",
+        "from":"From",
+        "to":"To",
+        "asset":"Asset",
+        "amount":"Amount"
+      },
+    "buttons":{
+        "unlock": "Unlock",
+        "deposit":"Deposit",
+        "send":"Send",
+        "swap":"Swap",
+        "cancel":"Cancel",
+        "ok": "OK"
+      }
+  },
+  "unLockWallet": {
+      "subTitle": "Your Digital Passport",
+      "wrongPassword":"Your password is incorrect!"
+    },
+  "assets": {
+      "myWallet": "My Wallet",
+      "assets": "Assets"
+    },
+  "sendAssets":{
+      "title": "Send Assets",
+      "popupTitle": "Successfully Sent",
+      "popupMessage": "Your <strong>{{asset}}</strong> has been sent!",
+      "popupThanks":"Thank you for using our service"
+    }
+}
