@@ -1,4 +1,4 @@
-const baseUrl = 'http://127.0.0.1:3001';
+const baseUrl = 'http://murmuring-wildwood-66916.herokuapp.com';
 
 const URLS = {
   WALLET_NAME: `${baseUrl}/api/walletName`,
